@@ -20,8 +20,8 @@
 # How To Install
     # git clone https://github.com/TatsumiOfficial/DorkerDomain/
     # cd DorkerDomain
-    # chmod +x reverse
-    # ./reverse
+    # chmod +x scanner
+    # ./scanner
     
 # OS TESTER
 - UBUNTU
